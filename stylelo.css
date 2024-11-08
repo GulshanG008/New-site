@@ -81,7 +81,7 @@ body {
     border-right: 24vmin solid transparent;
     top: 0;
     transform-origin: top;
-    animation: open-rev 2s;
+    animation: open-rev 1s;
 }
 
 .container:hover .lid {
